@@ -1,9 +1,9 @@
 }@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-  --cor-fundo: #c8ccd5;
-  --cor-destaque: #9532c3;
-  --cor-texto: #26295a;
+  --cor-fundo: #8A2BE2;
+  --cor-destaque: #FF1493;
+  --cor-texto: #EE82EE;
 }
 
 /* o * seleciona todas as tags */
